@@ -1,0 +1,14 @@
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\bin\Debug\net6.0\TaskDB.deps.json
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\bin\Debug\net6.0\TaskDB.runtimeconfig.json
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\bin\Debug\net6.0\TaskDB.dll
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\bin\Debug\net6.0\TaskDB.pdb
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.csproj.AssemblyReference.cache
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.GeneratedMSBuildEditorConfig.editorconfig
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.AssemblyInfoInputs.cache
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.AssemblyInfo.cs
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.csproj.CoreCompileInputs.cache
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.dll
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\refint\TaskDB.dll
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.pdb
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\TaskDB.genruntimeconfig.cache
+F:\1\Course\API\jwtcor5\test\LinkedGates\TaskDB\obj\Debug\net6.0\ref\TaskDB.dll

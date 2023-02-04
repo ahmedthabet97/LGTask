@@ -1,0 +1,39 @@
+﻿@model PropertyValuesVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="AddDevice" asp-controller="Home" method="post">
+   <div class="col-sm-9">
+       <label asp-for="DeviceName"></label>
+        <input asp-for="DeviceName" type="text" class="form-control" />
+        <span asp-validation-for="DeviceName"></span>
+    </div><br />
+     <div class="col-sm-9">
+         <label asp-for="DeviceAcquisitionDate"></label>
+        <input asp-for="DeviceAcquisitionDate" type="date" class="form-control" />
+        <span asp-validation-for="DeviceAcquisitionDate"></span>
+    </div><br />
+     <div class="col-sm-9">
+         <label asp-for="DeviceMemo" ></label>
+        <input asp-for="DeviceMemo" type="number" class="form-control" />
+        <span asp-validation-for="DeviceMemo"></span>
+    </div><br />
+
+<div class="col-6">
+    <label asp-for="CategoryName"> </label>
+     <select id="CatID" asp-for="CategoryId" class="form-select">
+    @foreach (var cat in ViewBag.Category)
+    {
+      <option value="@cat.CatId">@cat.Name</option>
+    }
+    </select>
+    </div><br />
+    <div id="properyDiv">
+    </div><br />
+    <input  value="Add" class="btn btn-success" type="submit"/>
+</form>
+@section Scripts
+{
+    <script src="~/TaskScript.js"></script>
+}
